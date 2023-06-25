@@ -33,6 +33,9 @@ sealed class Destination(
         icon = R.drawable.user
     )
 
+    object DetailScreen : Destination(
+        route = Constants.DETAIL_ROUTE,
+    )
     object LoginScreen : Destination(
         route = Constants.LOGIN_ROUTE
     )

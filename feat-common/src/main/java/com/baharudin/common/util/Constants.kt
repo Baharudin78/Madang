@@ -7,6 +7,7 @@ object Constants {
     const val SEARCH_ROUTE = "SEARCH_ROUTE"
     const val BOOKMARK_ROUTE = "BOOKMARK_ROUTE"
     const val PROFILE_ROUTE = "PROFILE_ROUTE"
+    const val DETAIL_ROUTE = "DETAIL_ROUTE"
     const val LOGIN_ROUTE = "LOGIN_ROUTE"
     const val REGISTER_ROUTE = "REGISTER_ROUTE"
 
